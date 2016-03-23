@@ -1,3 +1,2 @@
 # 2048
-Simple 2048 game in Scala swing
-Ai using alpha-beta search
+Simple 2048 game in Scala swing,ai using alpha-beta search
